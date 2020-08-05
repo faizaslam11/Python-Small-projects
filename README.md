@@ -1,2 +1,2 @@
 # Python-Small-projects
-it have small programs and simple coding with python
+small programs with simple coding for python basic
