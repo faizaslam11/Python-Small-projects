@@ -1,6 +1,6 @@
 def myfunc() -> object:
 	'''''
-	 adding two numbers
+	 printing two numbers
 	'''
 	first = 1
 	second = 2
